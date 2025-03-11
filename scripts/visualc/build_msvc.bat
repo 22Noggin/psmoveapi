@@ -1,4 +1,4 @@
-@echo no
+@echo on
 
 setlocal enabledelayedexpansion
 IF "%1"=="" GOTO InvalidArgs
